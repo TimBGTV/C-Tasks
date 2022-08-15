@@ -1,0 +1,16 @@
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\obj\Debug\Distribution.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\obj\Debug\Distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\obj\Debug\Distribution.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\bin\Debug\Distribution.exe.config
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\bin\Debug\Distribution.exe
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\bin\Debug\Distribution.pdb
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\obj\Debug\Distribution.exe
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\Distribution\Distribution\obj\Debug\Distribution.pdb
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\bin\Debug\Distribution.exe.config
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\bin\Debug\Distribution.exe
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\bin\Debug\Distribution.pdb
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\obj\Debug\Distribution.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\obj\Debug\Distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\obj\Debug\Distribution.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\obj\Debug\Distribution.exe
+C:\Users\timur\OneDrive\Документы\Visual Studio 2022\Projects\TestProject\Distribution\Distribution\obj\Debug\Distribution.pdb
